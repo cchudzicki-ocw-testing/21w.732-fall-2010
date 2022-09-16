@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains detailed information about the readings used in
+  the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -46,9 +48,9 @@ READINGS
 
 Graham, M., A. Slocum, and R. Moreno Sanchez. "Teaching High School Students and College Freshmen Product Development by Deterministic Design with PREP." _Journal of Mechanical Design_ 129 (July 2007): 677.
 
-Oakley, Barbara, et al. "Turning Student Groups into Effective Teams." _Journal of Student Centered Learning_ 2, no. 1 (2004): 9. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www4.ncsu.edu/unity/lockers/users/f/felder/public/Papers/Oakley-paper%28JSCL%29.pdf))
+Oakley, Barbara, et al. "Turning Student Groups into Effective Teams." _Journal of Student Centered Learning_ 2, no. 1 (2004): 9. ([PDF](http://www4.ncsu.edu/unity/lockers/users/f/felder/public/Papers/Oakley-paper%28JSCL%29.pdf))
 
-Philips, Patricia L. "So You're Going to be a Member of a Team." _Chemical Engineering Progress_, January 1997. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.ece.msstate.edu/courses/ece4723/files/member_of_a_team4.pdf))
+Philips, Patricia L. "So You're Going to be a Member of a Team." _Chemical Engineering Progress_, January 1997. ([PDF](http://www.ece.msstate.edu/courses/ece4723/files/member_of_a_team4.pdf))
 
 "[Theory of Multiple Intelligences](http://en.wikipedia.org/wiki/Multiple_intelligences)." Wikipedia.
 
@@ -111,7 +113,7 @@ Meetings reading from the MIT-Gordon Leadership Program. ({{% resource_link a51b
 
 ASME. "[Ethical Standards for Authors in the Publication of ASME Journals](http://journaltool.asme.org/Help/AuthorHelp/WebHelp/JournalsHelp.htm#Guidelines/Ethical_Standards.htm)."
 
-ASME. "ASME Code of Ethics for Engineers." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.asme.org/wwwasmeorg/media/resourcefiles/aboutasme/get%20involved/advocacy/policy-publications/p-15-7-ethics.pdf))
+ASME. "ASME Code of Ethics for Engineers." ([PDF](https://www.asme.org/wwwasmeorg/media/resourcefiles/aboutasme/get%20involved/advocacy/policy-publications/p-15-7-ethics.pdf))
 
 Yates, JoAnne. "Active Listening and Reflective Responses." MIT Sloan Communication Program Teaching Note. ({{% resource_link b55ae8f9-d19a-de73-b25d-205bd3382a5e "PDF" %}}) (Courtesy of JoAnne Yates. Used with permission.)
 
@@ -219,7 +221,7 @@ Pound, Ezra. "[In a Station of the Metro](http://en.wikipedia.org/wiki/In_a_Stat
 Additional Readings
 -------------------
 
-American Institute of Physics. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[AIP Style Manual. (PDF - 4.1MB)](http://kmh-lanl.hansonhub.com/AIP_Style_4thed.pdf) 1990.
+American Institute of Physics. [AIP Style Manual. (PDF - 4.1MB)](http://kmh-lanl.hansonhub.com/AIP_Style_4thed.pdf) 1990.
 
 Levi, Primo. "Argon." In _The Periodic Table_. Everyman's Library, 1996. ISBN: 9780679444633.
 

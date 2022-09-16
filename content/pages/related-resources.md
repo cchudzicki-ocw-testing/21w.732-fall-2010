@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains materials to allow for the students to be evaluated.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
